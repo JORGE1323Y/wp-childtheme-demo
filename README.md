@@ -1,8 +1,9 @@
-![Status](https://img.shields.io/badge/Status-In%20sviluppo-yellow)
-![WordPress](https://img.shields.io/badge/WordPress-Child%20Theme-21759B?logo=wordpress&logoColor=white)
-![Made with](https://img.shields.io/badge/Made%20with-CSS%20%7C%20PHP%20%7C%20WP_Query-blue)
-![Host](https://img.shields.io/badge/Demo-Online-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Status](https://img.shields.io/badge/Status-In%20sviluppo-yellow)](https://simone-dev.page.gd/)
+[![WordPress](https://img.shields.io/badge/WordPress-Child%20Theme-21759B?logo=wordpress&logoColor=white)](https://simone-dev.page.gd/)
+[![Made with](https://img.shields.io/badge/Made%20with-CSS%20%7C%20PHP%20%7C%20WP_Query-blue)](https://simone-dev.page.gd/)
+[![Host](https://img.shields.io/badge/Demo-Online-blueviolet)](https://simone-dev.page.gd/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://simone-dev.page.gd/)
+
 
 
 
